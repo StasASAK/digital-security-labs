@@ -1,0 +1,3 @@
+This document was created by Stanislav Kudelenko.
+Laboratory Work No. 4 - Personal Digital Signature.
+This file is used to test digital signature verification.

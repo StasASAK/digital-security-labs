@@ -1,0 +1,4 @@
+Personal Digital Signature
+Author: Stanislav Kudelenko
+Laboratory Work No. 4
+This document is used to test the custom digital signature system.
